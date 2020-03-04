@@ -1,0 +1,20 @@
+p {
+    font-size: 25px;
+    font-family: "Lucida Handwriting";
+    font-weight: bold;
+    color:rgb(255, 121, 121);
+    text-align: center;
+
+}
+body {
+    background-color: rgb(133, 241, 255);
+}
+main{
+    background-color: rgb(255, 223, 142);
+}
+footer{
+    background-color: rgb(147, 255, 147);
+}
+header{
+    background-color: rgb(255, 159, 242);
+}
